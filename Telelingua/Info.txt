@@ -1,0 +1,6 @@
+
+- récupérer la liste des fichiers dans un répertoire (utilisez "C:\Temp" en racine)
+
+- récupérer la taille et la date de dernière modification d'un fichier particulier, donc le nom est fourni lors de l'appel
+
+- créer un fichier dans le répertoire C:\Temp à partir d'un Byte Stream, fourni lors de l'appel (le nom du fichier doit être fourni lors de l'appel également)
